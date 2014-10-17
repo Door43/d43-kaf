@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kaf:home|Door43 (kaf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kaf|d43-kaf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kaf/archive/master.zip|d43-kaf.zip]]
+
+**Recent Changes**
+{{changes>ns = kaf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kaf|Ethnologue data]]
+
